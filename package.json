@@ -1,0 +1,16 @@
+{
+  "name": "PiWeb",
+  "version": "0.0.0",
+  "description": "Raspberry Pi 2 Web Page",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Anders Olav Candasamy",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~4.12.3",
+    "socket.io": "~1.3.5",
+    "twit": "~1.1.20"
+  }
+}
